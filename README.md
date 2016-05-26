@@ -21,3 +21,31 @@ main ()
      
 ```
 ![](1.PNG)
+
+```
+#include <stdio.h>
+#include <conio.h>
+
+main()
+{
+      float h, b, a;
+      printf("Enter the height of the triangle");
+      scanf("%f",&h);
+      printf("Enter the base of the triangle");
+      scanf("%f",&b);
+      
+      a= b*h/2;
+      
+      
+      
+      
+      
+      printf("\nThe area of the triangle is %0.2f",a);
+      
+      
+      
+     getch();
+     }
+
+```
+![](2.PNG)
