@@ -49,3 +49,24 @@ main()
 
 ```
 ![](2.PNG)
+```
+#include<stdio.h>
+#include<stdlib.h>
+
+int main()
+{
+	printf("\t\t@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n");
+	printf("\t\tMarvin Marlou M. Salcedo\n");
+	printf("\t\tBS ECE\n");
+	printf("\t\t11349441\n");
+	printf("\t\tMarch 27, 1996\n");
+	printf("\t\tmarvin_salcedo@dlsu.edu.ph\n");
+	printf("\t\t09278029505\n");
+	printf("\t\t@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n");
+	
+	return 0;
+		
+	}
+
+```
+!{}(3.PNG)
